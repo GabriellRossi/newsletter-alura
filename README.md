@@ -29,7 +29,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
-- Taiwind[CSS]
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## 🚧 Projeto:
 
