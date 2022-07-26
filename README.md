@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/forks/GabriellRossi/barbearia-alura?label=forks&message=MIT&color=061E3C&labelColor=C5DFFF" alt="Forks">
+  <img src="https://img.shields.io/github/forks/GabriellRossi/barbearia-alura?label=forks&message=MIT&color=C5DFFF&labelColor=061E3C" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/GabriellRossi/barbearia-alura?label=stars&message=MIT&color=061E3C&labelColor=C5DFFF " alt="Stars">
+  <img src="https://img.shields.io/github/stars/GabriellRossi/barbearia-alura?label=stars&message=MIT&color=C5DFFF&labelColor=061E3C " alt="Stars">
 </p>
 
 
